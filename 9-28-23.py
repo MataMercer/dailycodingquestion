@@ -112,5 +112,6 @@ def test_check(expected, result, testname):
         print('Output: ' + str(result))
 
 test_ArrayFinder()
-# test_findRotationPoint()
-# test_binarySearch()
+test_findRotationPoint()
+test_binarySearch()
+#testing
